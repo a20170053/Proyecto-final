@@ -1,0 +1,48 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #FEDAF2;
+}
+.titulo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.titulo p{
+  font-size: 50px;
+  font-weight: bold;
+  color: #FBD; 
+  text-align: center;
+}
+.ima1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ima1 img{
+  height: 250px;
+  margin:20px;
+}
+.ima1 p{
+  font-size: 20px;
+  font-weight: bold;
+  color: #EB9AC0;
+  text-align: justify;
+}
+.ima1 ul{
+  font-size: 20px;
+  color: #EB9AC0;
+  font-weight: bold;  
+}
+.link{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.link a{
+  font-size: 30px;
+  font-weight: bold;
+  color: #EB9AC0;  
+}
